@@ -10,17 +10,17 @@ Vão desde scripts simples até automações criativas — tudo feito com foco e
 
 ### 🔑 Verificação de Senha  
 Script simples para validar uma senha baseada em um arquivo externo.
-- 🔑 [Verificação de Senha](#verificação-de-senha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🔑 [Verificação de Senha](https://github.com/RgoSL/PythonAtivs/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### 🧮 Operações Matemáticas  
 Programa interativo para realizar operações básicas de matemática, ideal para treinar lógica, uso de funções e condicionais.
-- 🧮 [Operações Matemáticas](#operações-matemáticas) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🧮 [Operações Matemáticas](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### ✅ WhatsApp Autônomo  
 Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - um teste divertido de automação em Python.
-- ✅ [WhatsApp Autônomo](#whatsapp-autônomo) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- ✅ [WhatsApp Autônomo](https://github.com/RgoSL/PythonAtivs/tree/AutoZap) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
