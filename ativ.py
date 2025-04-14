@@ -1,6 +1,6 @@
 # Atividade -
 
-# Criar uma pasta chamada "Verificar login", dentro dela adicione os arquivos "Senha.txt" e "Login.py".
+# Criar uma pasta com os seguintes arquivos: "Senha.txt" e "Ativ.py".
 # Desenvolva um código utilizando o comando "With open" para ler o arquivo "Senha.txt", em seguida faça uma condicional para reconhecer se uma senha digitada é igual ao valor da senha definido no arquivo.
 
 
