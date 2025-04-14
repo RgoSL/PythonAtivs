@@ -1,4 +1,4 @@
-# 🐍 PythonAtivs – Explorando Python com Projetos Divertidos  <img src="https://skillicons.dev/icons?i=python,outlook" align="center" /> 
+# 🐍 PythonAtivs – Explorando Python com Projetos Divertidos  <img src="https://skillicons.dev/icons?i=python" align="center" /> 
 
 Repositório criado para armazenar minhas atividades e pequenos projetos em Python, feitos enquanto estudo e pratico a linguagem.  
 Cada atividade está organizada em uma branch diferente, facilitando a navegação e a consulta separada de cada código.
@@ -14,7 +14,7 @@ Script simples para validar uma senha baseada em um arquivo externo.
 <br>
 
   ### 🧮 Operações Matemáticas  
-Programa interativo para realizar operações básicas de matemática, ideal para treinar lógica, uso de funções e condicionais.
+Programa interativo para realizar operações básicas de matemática - ideal para treinar lógica, uso de funções e condicionais.
 - 🧮 [Operações Matemáticas](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
