@@ -1,4 +1,4 @@
-# 🐍 PythonAtivs – Verificação de Senha 🔑
+# 🐍 PythonAtivs – Interface Gráfica em Python 🤩
 
 
 ## 🧑‍💻 Como Rodar a Aplicação
@@ -13,7 +13,7 @@ Siga os passos abaixo para rodar o código localmente:
 2. **Entre no Diretório Específico**  
    Para o "Verificação de Senha" , use o comando:
    ```bash
-   git checkout VerifiSenha
+   git checkout PythonGui
 
 #
 3. **Instale as Dependências**  
