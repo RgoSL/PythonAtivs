@@ -23,6 +23,11 @@ Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - 
 - ✅ [WhatsApp Autônomo](https://github.com/RgoSL/PythonAtivs/tree/AutoZap) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
+  ### 🤩 Interface Gráfica em Python
+Exemplos de propriedades da biblioteca `customtkinter` - exemplos visuais da biblioteca. 
+- 🤩 [Interface Gráfica em Python](https://github.com/RgoSL/PythonAtivs/tree/PythonGUI) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+<br>
+
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 ---
 
