@@ -25,7 +25,7 @@ Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - 
 
   ### 🤩 Interface Gráfica em Python
 Exemplos de propriedades da biblioteca `customtkinter` - exemplos visuais da biblioteca. 
-- 🤩 [Interface Gráfica em Python](https://github.com/RgoSL/PythonAtivs/tree/PythonGUI) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🤩 [Interface Gráfica em Python](https://github.com/RgoSL/PythonAtivs/tree/PythonGui) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
