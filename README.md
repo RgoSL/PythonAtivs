@@ -28,6 +28,11 @@ Exemplos de propriedades da biblioteca `customtkinter` - exemplos visuais da bib
 - 🤩 [Interface Gráfica em Python](https://github.com/RgoSL/PythonAtivs/tree/PythonGui) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
+  ### 🥳 Código de Parabéns!
+Um código que pode ser útil para quem quiser mandar uma mensagem muitas vezes 😅
+- 🥳 [Parabéns em Python](https://github.com/RgoSL/PythonAtivs/tree/CodeNiver) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+<br>
+
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 ---
 
