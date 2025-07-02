@@ -13,9 +13,9 @@ Script simples para validar uma senha baseada em um arquivo externo.
 - 🔑 [Verificação de Senha](https://github.com/RgoSL/PythonAtivs/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
-  ### 🧮 Operações Matemáticas  
-Programa interativo para realizar operações básicas de matemática - ideal para treinar lógica, uso de funções e condicionais.
-- 🧮 [Operações Matemáticas](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+  ### 🧮 Calculadora Python
+Uma calculadora com um front-end e uma lógica de funcionamento totalmente baseados em Python.
+- 🧮 [OperMath](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### ✅ WhatsApp Autônomo  
