@@ -1,28 +1,27 @@
-# 🐍 PythonAtivs – Verificação de Senha 🔑
+# 🔑 Verificador de Senha
 
+O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
 
-## 🧑‍💻 Como Rodar a Aplicação
+---
 
-Siga os passos abaixo para rodar o código localmente:
+## 🚀 Descrição
 
-1. **Clone o repositório**  
-   Abra o terminal e execute o comando:
-   ```bash
-   git clone https://github.com/RgoSL/PythonAtivs.git
-#
-2. **Entre no Diretório Específico**  
-   Para o "Verificação de Senha" , use o comando:
-   ```bash
-   git checkout VerifiSenha
+### 📌 O que esse projeto faz?
 
-#
-3. **Instale as Dependências**  
-   Se o projeto exigir alguma dependência externa, instale usando:
-   ```bash
-   pip install -r requirements.txt
-   
-#
-4. **Execute o Script**  
-   Agora, execute o script Python desejado:
-   ```bash
-   python ativ.py
+> Por meio de um arquivo .txt externo, o script desta branch válida uma condição, simulando se o usuário seria ou não aprovado.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+- Linguagem: **Python 3.x**
+- Editor: **VSCode** 
+
+---
+
+## 🛠️ Como Executar
+
+### 📦 Pré-requisitos:
+
+- Python 3.x Instalado no PC
+- Extensões VSCode : Python, Python Debugger
