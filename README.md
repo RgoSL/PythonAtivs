@@ -1,28 +1,33 @@
-# 🐍 PythonAtivs – Interface Gráfica em Python 🤩
+# 🤩 PythonGUI
+
+O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+
+---
+
+## 🚀 Descrição
+
+### 📌 O que esse projeto faz?
+
+> Esta branch é uma coletânea de elementos/componentes de interface gráfica em Python. Desenvolvi todos eles utilizando a biblioteca `CustomTKinter`. Uso esta branch como uma revisão rápida e autoral dos conceitos da biblioteca.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+- Linguagem: **Python 3.x**
+- Editor: **VSCode** 
+- Bibliotecas utilizadas:
+  - `customtkinter`
+
+---
+
+## 🛠️ Como Executar
+
+### 📦 Pré-requisitos:
+
+- Python 3.x Instalado no PC
+- Extensões VSCode : Python, Python Debugger
 
 
-## 🧑‍💻 Como Rodar a Aplicação
-
-Siga os passos abaixo para rodar o código localmente:
-
-1. **Clone o repositório**  
-   Abra o terminal e execute o comando:
-   ```bash
-   git clone https://github.com/RgoSL/PythonAtivs.git
-#
-2. **Entre no Diretório Específico**  
-   Para o "Verificação de Senha" , use o comando:
-   ```bash
-   git checkout PythonGui
-
-#
-3. **Instale as Dependências**  
-   Se o projeto exigir alguma dependência externa, instale usando:
-   ```bash
-   pip install -r requirements.txt
-   
-#
-4. **Execute o Script**  
-   Agora, execute o script Python desejado:
-   ```bash
-   python ativ.py
+````bash
+pip install customtkinter
