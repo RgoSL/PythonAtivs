@@ -10,7 +10,7 @@ Vão desde scripts simples até automações criativas — tudo feito com foco e
 
 ### 🔑 Verificação de Senha  
 Script simples para validar uma senha baseada em um arquivo externo.
-- 🔑 [Verificação de Senha](https://github.com/RgoSL/PythonAtivs/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🔑 [Verificação de Senha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### 🧮 Calculadora Python
