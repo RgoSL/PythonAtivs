@@ -16,7 +16,8 @@ Script simples para validar uma senha baseada em um arquivo externo.
   ### 🧮 Calculadora Python
 Uma calculadora com um front-end e uma lógica de funcionamento totalmente baseados em Python.
 - 🧮 [OperMath](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
-<br>
+> 👷🏻 Está em desenvolvimento!
+<br> 
 
   ### ✅ WhatsApp Autônomo  
 Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - um teste divertido de automação em Python.
