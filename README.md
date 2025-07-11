@@ -1,7 +1,7 @@
 #  <img src="https://skillicons.dev/icons?i=python" align="center" /> PythonAtivs – Explorando Python com Projetos Divertidos 
 
-Repositório criado para armazenar minhas atividades e pequenos projetos em Python, feitos enquanto estudo e pratico a linguagem.  
-Cada atividade está organizada em uma branch diferente, facilitando a navegação e a consulta separada de cada código.
+- 🎯 Repositório criado para armazenar minhas atividades e pequenos projetos em Python, feitos enquanto estudo e pratico a linguagem.  
+- 🧭 Cada atividade está organizada em uma branch diferente, facilitando a navegação e a consulta separada de cada código.
 
 Vão desde scripts simples até automações criativas — tudo feito com foco em aprendizado e diversão! 😄
 
