@@ -10,7 +10,7 @@ Vão desde scripts simples até automações criativas — tudo feito com foco e
 
 ### 🔑 Verificação de Senha  
 Script simples para validar uma senha baseada em um arquivo externo.
-- 🔑 [Verificação de Senha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🔑 [VerifiSenha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### 🧮 Calculadora Python
@@ -21,17 +21,22 @@ Uma calculadora com um front-end e uma lógica de funcionamento totalmente basea
 
   ### ✅ WhatsApp Autônomo  
 Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - um teste divertido de automação em Python.
-- ✅ [WhatsApp Autônomo](https://github.com/RgoSL/PythonAtivs/tree/AutoZap) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- ✅ [AutoZap](https://github.com/RgoSL/PythonAtivs/tree/AutoZap) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### 🤩 Interface Gráfica em Python
 Exemplos de propriedades da biblioteca `customtkinter` - exemplos visuais da biblioteca. 
-- 🤩 [Interface Gráfica em Python](https://github.com/RgoSL/PythonAtivs/tree/PythonGui) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🤩 [PythonGui](https://github.com/RgoSL/PythonAtivs/tree/PythonGui) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
   ### 🥳 Código de Parabéns!
 Um código que pode ser útil para quem quiser mandar uma mensagem muitas vezes 😅
-- 🥳 [Parabéns em Python](https://github.com/RgoSL/PythonAtivs/tree/CodeNiver) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+- 🥳 [CodeNiver](https://github.com/RgoSL/PythonAtivs/tree/CodeNiver) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+<br>
+
+ ### 😹 Meme CustomTkinter
+Um script que eu fiz para testar se o `customtkinter` suportava vídeos.
+- 😹 [MP4CustomTk](https://github.com/RgoSL/PythonAtivs/tree/MP4CustomTk) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
