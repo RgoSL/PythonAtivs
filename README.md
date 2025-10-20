@@ -39,6 +39,11 @@ Um script que eu fiz para testar se o `customtkinter` suportava vídeos.
 - 😹 [MP4CustomTk](https://github.com/RgoSL/PythonAtivs/tree/MP4CustomTk) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
+ ### 🧪 Otimização de Código
+Usando o `threads`, é possível deixar códigos mais otimizados/rápidos 🧠.
+- 🧪 [CodeOtimista](https://github.com/RgoSL/PythonAtivs/tree/CodeOtimista) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+<br>
+
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 ---
 
