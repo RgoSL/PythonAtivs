@@ -1,4 +1,0 @@
-Ola, amigo.
-Eu escrevi todas essas mensagens...
-Bem, eu nao escrevi.
-Foram enviadas de forma automatica com o Python
