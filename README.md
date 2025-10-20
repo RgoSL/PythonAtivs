@@ -1,6 +1,5 @@
-# ✅ AutoZap
-
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+# 🧪 CodeOtimista
+O objetivo dessa branch é armazenar um teste de como otimizar funções de um código utilizando controle de processos, vulgo threads 🧠.
 
 ---
 
@@ -8,7 +7,8 @@ O objetivo desta atividade é praticar conceitos específicos da linguagem Pytho
 
 ### 📌 O que esse projeto faz?
 
-> Este script automatiza o envio de mensagens via WhatsApp Web/Desktop utilizando a biblioteca `pyautogui`, por meio de um arquivo de texto, ele repassa mensagens para um contato em uma coordenada especifica. Foi minha introdução à automação com Python.
+> Há dois scripts, o "Teste" tem a intenção de ser mais direto e menos otimizado para alguns computadores. Enquanto o "TesteThreads", aplica controle de processos neste mesmo código afim de otimizar a forma como ele executa sua missão.
+> Em suma, aplique Threads para deixar as coisas mais rápidas 🏍️.
 
 ---
 
@@ -17,22 +17,20 @@ O objetivo desta atividade é praticar conceitos específicos da linguagem Pytho
 - Linguagem: **Python 3.x**
 - Editor: **VSCode** 
 - Bibliotecas utilizadas:
-  - `pyautogui`
-  - `time`
+  - `threading`
+  - `customtkinter`
+  - `tkinter`
+  - `winreg`
 
 ---
 
 ## 🛠️ Como Executar
 
 ### 📦 Pré-requisitos:
-
 - Python 3.x Instalado no PC
+- Instalar o Customtkinter (as demais já vem por padrão com o python)
 
 ````bash
-pip install pyautogui
+pip install customtkinter
 
 ````
-
-
-```bash
-pip install mouseinfo
